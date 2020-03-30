@@ -215,3 +215,7 @@ dmypy.json
 
 # Pyre type checker
 .pyre/
+
+/Pillow-7.0.0-cp38-cp38-win_amd64.whl
+/.idea
+/script.spec
