@@ -4,7 +4,7 @@ For automating mining on a Minecraft Skyblock server.
 Automatically rotates between pickaxes in the Minecraft toolbar
 
 #To Use
-1) Clone this repository and extract the autolcicker.zip folder
+1) Clone this repository and extract the autoclicker.zip folder
 2) Find the script.exe file inside ZIP folder.
 3) Ensure your hotbar (slots 1-9) are filled with stone pickaxes. The script is configured to hold down the left mouse button for 99 seconds, which is the theoretical mine time for a stone pickaxe. 
 4) Approach a source of cobblestone
