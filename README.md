@@ -1,4 +1,6 @@
 # MinecraftClicker
+Big warning! This project is not actively maintained and may have security issues. Make sure to use the latest versions of any dependencies when installing. Please issue all support requests to /dev/null. This code comes with absolutely no warranty or guarantees. This code can be freely re-distributed without attribution, as I am not very proud of it. But, if you find a better way to implement it, shoot me an email @ aidanb2828@gmail.com :)
+
 An auto-clicking script using PyAutoGUI
 For automating mining on a Minecraft Skyblock server. 
 Automatically rotates between pickaxes in the Minecraft toolbar
